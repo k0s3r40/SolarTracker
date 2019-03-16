@@ -1,2 +1,5 @@
 # SolarTracker
-An Arduino solar tracking system
+An Arduino solar tracking system created by DayOff
+
+
+
