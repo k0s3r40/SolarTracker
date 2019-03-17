@@ -12,3 +12,6 @@ An Arduino solar tracking system created by DayOff
 1x [sunny buddy by sparkfun](https://www.sparkfun.com/products/12885)<br/>
 1x [solar panel](https://www.sparkfun.com/products/13782)<br/>
 
+# Schematic
+
+![schematic](https://raw.githubusercontent.com/k0s3r40/SolarTracker/master/SCHEMATIC.png)
