@@ -1,13 +1,13 @@
 #include <Servo.h>
+#define   A_0  (A4)
+#define   A_1  (A5)
+#define   A_2  (A6)
+#define   A_3  (A7)
 int topleft;
 int topright;
 int downleft;
 int downright;
 int waittime = 1;
-#define   A_0  (A4)
-#define   A_1  (A5)
-#define   A_2  (A6)
-#define   A_3  (A7)
 Servo X;
 Servo Y;
 int Ypos;
